@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+langchain-core
+langchain-openai
+python-dotenv
+certifi
+requests
