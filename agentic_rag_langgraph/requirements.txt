@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-openai
+langchain-chroma
+langchain-community
+rank_bm25
+pypdf
+python-dotenv
+requests
